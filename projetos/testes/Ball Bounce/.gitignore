@@ -1,0 +1,26 @@
+# Ignore os diretórios de biblioteca do Unity
+Library/
+Temp/
+Obj/
+
+# Ignore os arquivos de log e cache
+Logs/
+.vs/
+.idea/
+
+# Ignore os arquivos específicos de sistema operacional (exemplo: MacOS)
+.DS_Store
+
+# Ignore os arquivos de build do Unity
+Build/
+
+# Ignore os arquivos do Visual Studio
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.tmp
+
+# Ignore os pacotes do Unity Package Manager
+Packages/
